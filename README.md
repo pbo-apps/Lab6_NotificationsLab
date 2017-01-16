@@ -3,7 +3,7 @@ Lab project from week 2 of Adam Porter's Coursera course, Programming Mobile App
 https://www.coursera.org/learn/android-programming-2/home/welcome
 
 Lab Objectives:
-Familiarize yourself with the Fragment class. Create a simple application that uses Fragments to
-produce a two-pane or single-pane user interface depending on the current device’s screen size.
-After completing this Lab you should better understand the Fragment class and its lifecycle, and how
-Fragments interact with the Activities that host them.
+This week’s Lab explores User Notifications and Broadcast Receivers. After finishing this Lab, you
+will have a better understanding of how to create and display different types of User Notifications in
+order to inform users of your application’s actions. You will also learn how to broadcast and receive
+Intents.
