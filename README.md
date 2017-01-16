@@ -1,5 +1,6 @@
 # Lab6_NotificationsLab
 Lab project from week 2 of Adam Porter's Coursera course, Programming Mobile Applications for Android Handheld Systems: Part 2
+https://www.coursera.org/learn/android-programming-2/home/welcome
 
 Lab Objectives:
 Familiarize yourself with the Fragment class. Create a simple application that uses Fragments to
